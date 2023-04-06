@@ -1,4 +1,4 @@
-# Pixabay Image Gallery - React & Tailwind CSS 
+# Pixabay Image Gallery - React, Vite & Tailwind CSS 
 
 Simple gallery with images from the pixabay API. Tailwind css is built into workflow with postcss and autoprefixer.
 
